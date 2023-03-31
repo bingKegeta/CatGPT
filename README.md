@@ -1,7 +1,9 @@
-# Cat GPT
+# GP3DS
 
 > Placeholder name, change as you wish
 
-An AI chatbot based on ChatGPT that replies to prompts as a cat.
+An AI chatbot with absolutely no quirks.
 
 Details about it is yet to be finalized.
+
+# BTW, did you know it's really easy to mod a 3DS?
